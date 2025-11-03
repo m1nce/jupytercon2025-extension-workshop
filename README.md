@@ -182,3 +182,4 @@ You can edit `AGENTS.md` to add project-specific conventions or adjust guideline
 ### Packaging the extension
 
 See [RELEASE](RELEASE.md)
+# jupytercon2025-extension-workshop
